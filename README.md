@@ -25,6 +25,10 @@
 
 ![Скриншот 5](https://github.com/Markin-AI/8-02/blob/main/img/1-5.png)
 
+### Завершилось удачно, Nexsus активен
+
+![Скриншот 6](https://github.com/Markin-AI/8-02/blob/main/img/1-6.png)
+
 ---
 
 ### Задание 2
@@ -46,6 +50,9 @@
 
 ![Скриншот 4](https://github.com/Markin-AI/8-02/blob/main/img/2-4.png)
 
+### Завершилось удачно, Nexsus активен
+
+![Скриншот 5](https://github.com/Markin-AI/8-02/blob/main/img/2-5.png)
 
 ---
 
