@@ -21,7 +21,7 @@
 
 ![Скриншот 4](https://github.com/Markin-AI/8-02/blob/main/img/1-4.png)
 
-##Завершилось с ошибкой так как еще не поднят Nexsus
+###Завершилось с ошибкой так как еще не поднят Nexsus
 
 ![Скриншот 5](https://github.com/Markin-AI/8-02/blob/main/img/1-5.png)
 
@@ -42,7 +42,7 @@
 
 ![Скриншот 3](https://github.com/Markin-AI/8-02/blob/main/img/2-3.png)
 
-##Завершилось с ошибкой так как еще не поднят Nexsus
+###Завершилось с ошибкой так как еще не поднят Nexsus
 
 ![Скриншот 4](https://github.com/Markin-AI/8-02/blob/main/img/2-4.png)
 
