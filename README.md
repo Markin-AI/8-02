@@ -71,4 +71,5 @@
 ![Скриншот 2](https://github.com/Markin-AI/8-02/blob/main/img/3-2.png)
 ![Скриншот 3](https://github.com/Markin-AI/8-02/blob/main/img/3-3.png)
 
+
 ---
