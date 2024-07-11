@@ -31,7 +31,11 @@
 
 ### Решение 2
 
-
+![Скриншот 1](https://github.com/Markin-AI/8-02/blob/main/img/2-1.png)
+![Скриншот 2](https://github.com/Markin-AI/8-02/blob/main/img/2-2.png)
+![Скриншот 3](https://github.com/Markin-AI/8-02/blob/main/img/2-3.png)
+Завершилось с ошибкой так как еще не поднят Nexsus
+![Скриншот 4](https://github.com/Markin-AI/8-02/blob/main/img/2-4.png)
 
 
 ---
