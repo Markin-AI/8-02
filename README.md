@@ -14,10 +14,15 @@
 ### Решение 1
 
 ![Скриншот 1](https://github.com/Markin-AI/8-02/blob/main/img/1-1.png)
+
 ![Скриншот 2](https://github.com/Markin-AI/8-02/blob/main/img/1-2.png)
+
 ![Скриншот 3](https://github.com/Markin-AI/8-02/blob/main/img/1-3.png)
+
 ![Скриншот 4](https://github.com/Markin-AI/8-02/blob/main/img/1-4.png)
+
 ##Завершилось с ошибкой так как еще не поднят Nexsus
+
 ![Скриншот 5](https://github.com/Markin-AI/8-02/blob/main/img/1-5.png)
 
 ---
@@ -32,9 +37,13 @@
 ### Решение 2
 
 ![Скриншот 1](https://github.com/Markin-AI/8-02/blob/main/img/2-1.png)
+
 ![Скриншот 2](https://github.com/Markin-AI/8-02/blob/main/img/2-2.png)
+
 ![Скриншот 3](https://github.com/Markin-AI/8-02/blob/main/img/2-3.png)
+
 ##Завершилось с ошибкой так как еще не поднят Nexsus
+
 ![Скриншот 4](https://github.com/Markin-AI/8-02/blob/main/img/2-4.png)
 
 
